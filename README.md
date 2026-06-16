@@ -234,7 +234,7 @@ No dataset in the corpus is simultaneously natively graph-structured, temporally
 @article{gnn_iot_ids_survey_2026,
   title   = {Graph Neural Network Based Intrusion Detection in IoT Communication Graphs: 
              A Survey of Architectures, Datasets, and Open Challenges},
-  author  = {[Author(s)]},
+  author  = {Mubaraq Onipede},
   journal = {[Target Venue]},
   year    = {2026},
   note    = {Under review}
@@ -249,4 +249,4 @@ Survey paper © the author(s). Corpus data files and README released under [CC B
 
 ---
 
-*Last updated: May 2026 · Corpus covers January 2018 – May 2026*
+*Last updated: June 2026 · Corpus covers January 2018 – May 2026*
